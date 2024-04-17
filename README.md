@@ -4,7 +4,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saravananbcs/tango-colab-demo/blob/master/Tango_2_Google_Colab_demo.ipynb) | Tango_2_Google_Colab_demo.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saravananbcs/tango-demo-colab/blob/master/Tango_2_Google_Colab_demo.ipynb) | Tango_2_Google_Colab_demo.ipynb
 
 
 [Tango 2 Paper](https://arxiv.org/abs/2404.09956) | [Tango 2](https://huggingface.co/declare-lab/tango2) | [Tango 2 Demo](https://huggingface.co/spaces/declare-lab/tango2) | [Audio-Alpaca](https://huggingface.co/datasets/declare-lab/audio-alpaca) | [Tango 2 Website](https://tango2-web.github.io/) | [Tango Paper](https://arxiv.org/pdf/2304.13731.pdf) | [Tango Model](https://huggingface.co/declare-lab/tango) | [Tango Website](https://tango-web.github.io/) | [Tango Demo](https://huggingface.co/spaces/declare-lab/tango)
